@@ -1,4 +1,4 @@
-## In this reo we will build early stopping mechanism using pytorch
+## In this repo we will build early stopping mechanism using pytorch
 
 ### Prerequisites
 
@@ -11,6 +11,8 @@
 # Lets create EarlyStopping in pure PyTorch
 
 ### What is early stopping ?
+
+A way to stop our model from overfitting
 
 ![Alt text](early%20stopping.png)
 
